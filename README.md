@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @blueberries25
+- 👋 Hi, I’m Abhinav Yadav
 - 👀 I’m interested in Competitive Programming
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning Machine Learning
 <!-- - 💞️ I’m looking to collaborate on ... -->
-- 📫 How to reach me darknessofabysss@gmail.com
+- 📫 How to reach me abhinav200125@gmail.com
 
 <!---
 blueberries25/blueberries25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
