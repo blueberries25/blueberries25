@@ -1,6 +1,7 @@
 # 👋 Hi, I’m Abhinav Yadav  
 
-- 💻 Passionate about **Data Structures & Algorithms** and problem solving  
+- 💻 Passionate about **Data Structures & Algorithms** and problem solving
+- 🏅 Achieved the **Knight badge on LeetCode**  
 - ☕ Currently learning **Java Development**  
 - 📫 Reach me at **abhinav200125@gmail.com**
 - ♟️ I’m a **chess enthusiast** (1900+ rating on Chess.com)  
