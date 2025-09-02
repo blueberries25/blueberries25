@@ -1,10 +1,10 @@
-- 👋 Hi, I’m Abhinav Yadav
-- 👀 I’m interested in Competitive Programming
-- 🌱 I’m currently learning Machine Learning
-<!-- - 💞️ I’m looking to collaborate on ... -->
-- 📫 How to reach me abhinav200125@gmail.com
+# 👋 Hi, I’m Abhinav Yadav  
 
-<!---
-blueberries25/blueberries25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 💻 Passionate about **Data Structures & Algorithms** and problem solving  
+- ☕ Currently learning **Java Development**  
+- 📫 Reach me at **abhinav200125@gmail.com**
+- ♟️ I’m a **chess enthusiast** (1900+ rating on Chess.com)  
+
+---
+
+✨ Always exploring new challenges and sharpening my skills in competitive programming! 🚀
